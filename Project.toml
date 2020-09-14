@@ -1,0 +1,13 @@
+name = "RecursiveNodes"
+uuid = "2dfca5b5-0bda-4bff-a73b-08b61b3e1b52"
+authors = ["Jesse Chan"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
